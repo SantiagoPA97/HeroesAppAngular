@@ -2,3 +2,8 @@
 
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+/* Sirve para llevar el toggle y el botón de logout hasta el final del componente. */
+.spacer {
+    flex: 1 1 auto;
+}
